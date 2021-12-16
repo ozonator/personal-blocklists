@@ -1,0 +1,13 @@
+# ozonator's list of regexes for blocking in pihole
+# must be added manually via the web interface, or via command or script in a shell
+
+(^|\.)herokuapp\.com$
+(^|\.)hyprmx\.com$
+(^|\.)aaxads\.com$
+(^|\.)applvn\.com$
+(^|\.)micpn\.com$
+(^|\.)360\.cn$
+(^|\.)360safe\.com$
+
+# Eve app pinging for updates
+^(services|eve-updates).evehome.com$
