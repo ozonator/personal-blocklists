@@ -5,3 +5,10 @@ graph.instagram.com
 
 tracking.monsido.com
 ads.samsung.com
+
+# in-app logging
+in.appcenter.ms
+firebaselogging-pa.googleapis.com
+
+# Ikea HomeSmart logging
+a1nvlh0fc0asuq.iot.us-east-1.amazonaws.com
