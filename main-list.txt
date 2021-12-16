@@ -1,9 +1,9 @@
 # personal blocklist for pihole, by ozonator
 
-graph.facebook.com
-graph.instagram.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
 
-tracking.monsido.com
-ads.samsung.com
+0.0.0.0 tracking.monsido.com
+0.0.0.0 ads.samsung.com
 
-(^|\.)herokuapp\.com$
+0.0.0.0 (^|\.)herokuapp\.com$
