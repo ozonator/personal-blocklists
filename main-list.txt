@@ -5,5 +5,3 @@ graph.instagram.com
 
 tracking.monsido.com
 ads.samsung.com
-
-(^|\.)herokuapp\.com$
