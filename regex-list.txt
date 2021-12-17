@@ -1,13 +1,13 @@
 # ozonator's list of regexes for blocking in pihole
 # must be added manually via the web interface, or via command or script in a shell
 
-(^|\.)herokuapp\.com$
-(^|\.)hyprmx\.com$
-(^|\.)aaxads\.com$
-(^|\.)applvn\.com$
-(^|\.)micpn\.com$
-(^|\.)360\.cn$
-(^|\.)360safe\.com$
+pihole --regex (^|\.)herokuapp\.com$
+pihole --regex (^|\.)hyprmx\.com$
+pihole --regex (^|\.)aaxads\.com$
+pihole --regex (^|\.)applvn\.com$
+pihole --regex (^|\.)micpn\.com$
+pihole --regex (^|\.)360\.cn$
+pihole --regex (^|\.)360safe\.com$
 
 # Eve app pinging for updates
-^(services|eve-updates).evehome.com$
+pihole --regex ^(services|eve-updates).evehome.com$
