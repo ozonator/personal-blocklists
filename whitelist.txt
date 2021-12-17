@@ -3,9 +3,18 @@
 
 pihole -w raw.githubusercontent.com
 
+# Apple Music & ID
+pihole -w itunes.apple.com
+pihole -w s.mzstatic.com
+pihole -w appleid.apple.com
+
+
 # Google Maps and other Google services
 pihole -w clients4.google.com 
 pihole -w clients2.google.com
 
 # for full functionality of the Sportsnet app
 pihole -w sportsnet-golang-live-prod.herokuapp.com
+
+# to be able to download files from dropbox
+pihole -w dl.dropboxusercontent.com ns1.dropbox.com ns2.dropbox.com
