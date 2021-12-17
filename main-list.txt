@@ -2,9 +2,24 @@
 
 graph.facebook.com
 graph.instagram.com
+analytics.facebook.com
+advertising.twitter.com
+analytics-sg.tiktok.com
+appmetrica.yandex.com
+extmaps-api.yandex.net
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+widgets.pinterest.com
 
 tracking.monsido.com
 ads.samsung.com
+mediavisor.doubleclick.net
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+freshmarketer.com
 
 # in-app logging
 in.appcenter.ms
