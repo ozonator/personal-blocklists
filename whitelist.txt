@@ -1,0 +1,11 @@
+# ozonator's list of sites and regexes for whitelisting in pihole
+# must be added manually via the web interface, or via command or script in a shell
+
+pihole -w raw.githubusercontent.com
+
+# Google Maps and other Google services
+pihole -w clients4.google.com 
+pihole -w clients2.google.com
+
+# for full functionality of the Sportsnet app
+pihole -w sportsnet-golang-live-prod.herokuapp.com
