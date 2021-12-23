@@ -4,6 +4,7 @@ graph.facebook.com
 graph.instagram.com
 analytics.facebook.com
 advertising.twitter.com
+s.ytimg.com
 analytics-sg.tiktok.com
 appmetrica.yandex.com
 extmaps-api.yandex.net
@@ -24,6 +25,20 @@ freshmarketer.com
 # in-app logging
 in.appcenter.ms
 firebaselogging-pa.googleapis.com
+mboxedge34.tt.omtrdc.net
+
+# pc optimum app
+ws2.bullseyelocations.com
+lcljoefresh.sc.omtrdc.net
+loblawsinc.tt.omtrdc.net
+
+# air miles app
+analytics.rover.io
+loyaltyone.tt.omtrdc.net
+
+# pc financial
+pcfinancial.sc.omtrdc.net
+mcngdmrpzxchv6n6vd0nnf7p-lh4.device.marketingcloudapis.com
 
 # Ikea HomeSmart logging
 a1nvlh0fc0asuq.iot.us-east-1.amazonaws.com
