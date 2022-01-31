@@ -45,3 +45,6 @@ a1nvlh0fc0asuq.iot.us-east-1.amazonaws.com
 
 # Metro app
 app.dialoginsight.com
+
+# Pizza Pizza app
+ppl-prod--be--phx2.appspot.com
