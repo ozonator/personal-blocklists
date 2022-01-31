@@ -12,5 +12,5 @@ pihole --regex (^|\.)360safe\.com$
 # Eve app pinging for updates
 pihole --regex ^(services|eve-updates).evehome.com$
 
-# pizzapizza app
-pihole --regex (\.|^)cdn4\.forter\.com$
+# pizzapizza app (maybe - indigo also uses a *.cdn.forter.com
+# pihole --regex (\.|^)cdn4\.forter\.com$
