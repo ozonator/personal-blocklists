@@ -42,3 +42,6 @@ mcngdmrpzxchv6n6vd0nnf7p-lh4.device.marketingcloudapis.com
 
 # Ikea HomeSmart logging
 a1nvlh0fc0asuq.iot.us-east-1.amazonaws.com
+
+# Metro app
+app.dialoginsight.com
