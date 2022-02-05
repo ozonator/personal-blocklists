@@ -48,3 +48,9 @@ app.dialoginsight.com
 
 # Pizza Pizza app
 ppl-prod--be--phx2.appspot.com
+
+# teamsnap app
+skadsdk.appsflyer.com
+flipgive.imgix.net
+s-usc1c-nss-297.firebaseio.com
+live-mars-1-73242.firebaseio.com
