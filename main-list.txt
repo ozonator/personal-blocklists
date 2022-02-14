@@ -55,3 +55,6 @@ flipgive.imgix.net
 s-usc1c-nss-297.firebaseio.com
 live-mars-1-73242.firebaseio.com
 firebase-settings.crashlytics.com
+
+# card skimming (per Ars article on magecart 2022-02-11)
+naturalfreshmall.com
