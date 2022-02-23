@@ -43,6 +43,9 @@ mcngdmrpzxchv6n6vd0nnf7p-lh4.device.marketingcloudapis.com
 # Ikea HomeSmart logging
 a1nvlh0fc0asuq.iot.us-east-1.amazonaws.com
 
+# Canada Life - GroupNet app
+zn03bx4n5mpp52ksl-gwlcx.siteintercept.qualtrics.com
+
 # Metro app
 app.dialoginsight.com
 
