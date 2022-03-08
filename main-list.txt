@@ -34,6 +34,7 @@ loblawsinc.tt.omtrdc.net
 
 # Canada Life GroupNet app
 greatwestlife.sc.omtrdc.net
+zn03bx4n5mpp52ksl-gwlcx.siteintercept.qualtrics.com
 
 # air canada app
 bf84021mlt.bf.dynatrace.com
@@ -51,9 +52,6 @@ a1nvlh0fc0asuq.iot.us-east-1.amazonaws.com
 
 # Ikea HomeSmart app
 tbcdn.talentbrew.com
-
-# Canada Life - GroupNet app
-zn03bx4n5mpp52ksl-gwlcx.siteintercept.qualtrics.com
 
 # Metro app
 app.dialoginsight.com
