@@ -32,6 +32,9 @@ ws2.bullseyelocations.com
 lcljoefresh.sc.omtrdc.net
 loblawsinc.tt.omtrdc.net
 
+# air canada app
+bf84021mlt.bf.dynatrace.com
+
 # air miles app
 analytics.rover.io
 loyaltyone.tt.omtrdc.net
@@ -48,6 +51,15 @@ zn03bx4n5mpp52ksl-gwlcx.siteintercept.qualtrics.com
 
 # Metro app
 app.dialoginsight.com
+
+# Indigo app
+www.offlinx.com
+indigo.report-uri.com
+indigo.report-uri.io
+bam-cell.nr-data.net
+indigo.sc.omtrdc.net
+platform.twitter.com
+www.bluecore.com
 
 # Pizza Pizza app
 ppl-prod--be--phx2.appspot.com
