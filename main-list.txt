@@ -32,6 +32,9 @@ ws2.bullseyelocations.com
 lcljoefresh.sc.omtrdc.net
 loblawsinc.tt.omtrdc.net
 
+# Canada Life GroupNet app
+greatwestlife.sc.omtrdc.net
+
 # air canada app
 bf84021mlt.bf.dynatrace.com
 
@@ -45,6 +48,9 @@ mcngdmrpzxchv6n6vd0nnf7p-lh4.device.marketingcloudapis.com
 
 # Ikea HomeSmart logging
 a1nvlh0fc0asuq.iot.us-east-1.amazonaws.com
+
+# Ikea HomeSmart app
+tbcdn.talentbrew.com
 
 # Canada Life - GroupNet app
 zn03bx4n5mpp52ksl-gwlcx.siteintercept.qualtrics.com
@@ -60,6 +66,9 @@ bam-cell.nr-data.net
 indigo.sc.omtrdc.net
 platform.twitter.com
 www.bluecore.com
+
+# Canadian Tire - Triangle apps
+socialize.us1.gigya.com
 
 # Pizza Pizza app
 ppl-prod--be--phx2.appspot.com
