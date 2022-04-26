@@ -71,6 +71,16 @@ socialize.us1.gigya.com
 # Pizza Pizza app
 ppl-prod--be--phx2.appspot.com
 
+# SportsNet app
+rmi.sc.omtrdc.net
+fl-1.cdn.flockler.com
+media-api.flockler.com
+plugins.flockler.com
+rogers.demdex.net
+rogers.gscontxt.net
+scontent-amt2-1.xx.fbcdn.net
+scontent.cdninstagram.com
+
 # teamsnap app
 skadsdk.appsflyer.com
 flipgive.imgix.net
