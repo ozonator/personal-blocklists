@@ -90,7 +90,7 @@ firebase-settings.crashlytics.com
 
 # word guess
 adtapp.net
-mediaflex.co
+#mediaflex.co
 
 # card skimming (per Ars article on magecart 2022-02-11)
 naturalfreshmall.com
