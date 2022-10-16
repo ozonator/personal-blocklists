@@ -88,5 +88,9 @@ s-usc1c-nss-297.firebaseio.com
 live-mars-1-73242.firebaseio.com
 firebase-settings.crashlytics.com
 
+# word guess
+adtapp.net
+mediaflex.co
+
 # card skimming (per Ars article on magecart 2022-02-11)
 naturalfreshmall.com
