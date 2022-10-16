@@ -89,7 +89,7 @@ live-mars-1-73242.firebaseio.com
 firebase-settings.crashlytics.com
 
 # word guess
-adtapp.net
+#adtapp.net
 #mediaflex.co
 
 # card skimming (per Ars article on magecart 2022-02-11)
