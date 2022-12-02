@@ -94,3 +94,12 @@ firebase-settings.crashlytics.com
 
 # card skimming (per Ars article on magecart 2022-02-11)
 naturalfreshmall.com
+
+# supplements for other general adlists
+# inspired by tests at https://d3ward.github.io/toolz/adblock.html
+amazonclix.com
+d.reddit.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+samsung-com.112.2o7.net
+supportmetrics.apple.com
