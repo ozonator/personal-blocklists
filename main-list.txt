@@ -111,3 +111,17 @@ logbak.hicloud.com
 click.oneplus.cn
 samsungadhub.com
 analytics-api.samsunghealthcn.com
+
+# blink ssh app
+api.revenuecat.com
+
+# PC Optimum, Tangerine
+mobilesdk-can.kampyle.com
+api.cooladata.com
+
+# PC Optimum
+scontent-lga3-1.xx.fbcdn.net
+sdk-01.moengage.com
+
+# Windy app
+scontent.fybz1-1.na.fbcdn.net
