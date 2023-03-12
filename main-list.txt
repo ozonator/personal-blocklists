@@ -79,7 +79,7 @@ plugins.flockler.com
 rogers.demdex.net
 rogers.gscontxt.net
 scontent-amt2-1.xx.fbcdn.net
-scontent.cdninstagram.com
+# blocks all instagram: scontent.cdninstagram.com
 
 # teamsnap app
 skadsdk.appsflyer.com
